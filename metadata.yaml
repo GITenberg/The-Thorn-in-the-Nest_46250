@@ -1,0 +1,32 @@
+_repo: The-Thorn-in-the-Nest_46250
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46250-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_issued: '2014-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- Ohio -- Fiction'
+title: The Thorn in the Nest
+url: http://www.gutenberg.org/ebooks/46250
